@@ -13,6 +13,3 @@ npm start
 ```javascript
 import App from './App'
 ```
-
-#### jsx is just like html. &lth1&gt&</h1> is jsx but not html.
-
