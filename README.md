@@ -9,3 +9,7 @@ cd newprojecname
 npm start
 ```
 
+### importing component
+```javascript
+import App from './App'
+```
