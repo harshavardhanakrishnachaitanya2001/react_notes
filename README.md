@@ -14,5 +14,5 @@ npm start
 import App from './App'
 ```
 
-#### jsx is just like html. <h1></h1> is jsx but not html.
+#### jsx is just like html. &lth1&gt&lt/h1&gt is jsx but not html.
 
